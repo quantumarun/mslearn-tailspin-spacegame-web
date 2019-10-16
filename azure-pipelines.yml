@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'Default'
+  name: 'Default'
   demands:
     - npm
 
